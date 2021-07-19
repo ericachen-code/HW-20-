@@ -1,0 +1,130 @@
+.case1{
+    font-size: 50px;
+    font-family: rokkit;
+    padding:30px;
+    text-align: center;
+}
+.navbar-brand{
+    font-size: 25px;
+    font-family: rokkit;
+    }
+.closetPic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.circle{
+   position:relative;
+   margin-left:100px;
+    margin-top:70px;
+}
+.intro{
+    position:relative;
+    margin-left: 20%;
+    margin-top:100px;
+}
+.p1{
+   height:400px;
+   width:600px;
+   position:absolute;
+   margin-left:200px;
+   margin-top:40px;
+}
+.closet2pic{
+  display:flexible;
+  margin-top:200px;
+  margin-left:160px;
+}  
+.closet3pic{
+    display:flexible;
+    margin-top:200px;
+    margin-left:160px; 
+} 
+.closet4pic{
+    display:flexible;
+    margin-top:200px;
+    margin-left:160px;   
+}
+.closet5pic{
+    display:flexible;
+    margin-top:60px;
+    margin-left:430px; 
+}
+.em{
+    text-align: center;
+    display:flexible;
+    margin-top:80px;
+}
+.closet6pic{
+    display:flexible;
+    margin-top:60px;
+    margin-left:175px;
+}
+.pro{
+    text-align: center;
+    display:flexible;
+    margin-top:80px;  
+}
+.closet7pic{
+    display:flexible;
+    margin-top:60px;
+    margin-left:540px; 
+}
+.closet8pic{
+    display:flexible;
+    margin-top:60px;
+    margin-right:50px;
+
+}
+.closet9pic{
+    display:flexible;
+    margin-top:50px;
+    margin-right:100px;
+    margin-left: 80px;
+}
+.closet10pic{
+    display:flexible;
+    margin-top:100px;
+}
+.closet11pic{
+    display:flexible;
+    margin-top:30px;
+    margin-left:110px; 
+} 
+.closet12pic{
+    display:flexible;
+    margin-left:300px;
+    margin-top: 25px;
+}
+.closet13pic{
+    display:flexible;
+    margin-top:20px;
+    margin-left:180px;  
+}
+.closet14pic{
+    display:flexible;
+    margin-top:20px;
+    margin-left:180px; 
+}
+.closet15pic{
+    display:flexible;
+    margin-top:100px;
+    margin-left:600px;}
+.closet16pic{
+    display:flexible;
+    margin-top:100px;
+    margin-left:500px;
+}
+h1{
+    text-align: center;
+}
+.last{
+    display:flexible;
+    margin-top:50px;
+    margin-left:450px; 
+}
+#end{
+    display:flexible;
+    margin-top:100px;
+}
